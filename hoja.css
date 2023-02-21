@@ -1,0 +1,124 @@
+
+
+/*imagen principal*/
+
+img
+{width: 400px;
+    
+    
+    }
+
+
+
+
+
+
+
+*{font-family:'Roboto', sans-serif;}
+
+
+
+
+/*contenedor que tiene datos personales*/
+
+.contenedor1{background-color: rgb(238, 157, 34);
+
+   
+ 
+}
+    
+@keyframes mover { 0% {
+
+
+    transform:translate(100%);
+}
+
+
+
+}
+
+/*contenedor que tiene trabajos*/
+ 
+.contenedordos{background-color: rgb(195, 168, 221);}
+
+
+@keyframes mover { 0% {
+    
+    
+    transform:translate(100%);
+}
+
+
+
+
+
+}
+/*contenedor que tiene habilidades*/
+
+.contenedortres{background-color: rgb(187, 226, 190);}
+
+
+
+
+
+
+
+
+.MENUUNO
+ {
+
+    display: inline-block;
+    
+    
+     max-width: 1000px;
+     margin: 30px;
+    background-color:  rgb(137, 218, 137);
+     padding: 10px;
+     text-align: center;
+
+    }
+
+
+    .MENUDOS
+
+    {
+   
+       display: inline-block;
+       
+       
+        max-width: 1000px;
+        margin: 30px;
+       background-color: rgb(137, 218, 137);
+        padding: 10px;
+        text-align: center;
+   
+       }
+
+.boton2
+{
+
+
+
+
+    display: flex;
+;justify-content: center;
+    background-color: blue;
+
+}
+
+
+
+body{
+
+background-color:rgb(146, 198, 233)
+}
+
+
+/** contacto**/
+
+
+
+
+
+   
+
